@@ -4,7 +4,7 @@ url: "http://khalidhkmsh.github.io"    # the protocol and hostname of your site,
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-My Personal website
+  My Personal website
 # Your information
 email: muhamood.khalid@aims.ac.rw
 author: KHALID Muhamood
